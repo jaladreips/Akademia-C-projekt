@@ -1,0 +1,8 @@
+AccelTest.Accelerometer, AccelTest;md5ce3c156b57d4dd688d5e8d4d290c07d0.Accelerometer
+AccelTest.Accelerometer, AccelTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce3c156b57d4dd688d5e8d4d290c07d0.Accelerometer
+AccelTest.Accelerometer;md5ce3c156b57d4dd688d5e8d4d290c07d0.Accelerometer
+acceltest.Accelerometer;md5ce3c156b57d4dd688d5e8d4d290c07d0.Accelerometer
+AccelTest.MainActivity, AccelTest;md5ce3c156b57d4dd688d5e8d4d290c07d0.MainActivity
+AccelTest.MainActivity, AccelTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ce3c156b57d4dd688d5e8d4d290c07d0.MainActivity
+AccelTest.MainActivity;md5ce3c156b57d4dd688d5e8d4d290c07d0.MainActivity
+acceltest.MainActivity;md5ce3c156b57d4dd688d5e8d4d290c07d0.MainActivity

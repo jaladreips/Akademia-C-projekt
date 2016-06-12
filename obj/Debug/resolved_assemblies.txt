@@ -1,0 +1,9 @@
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\AccelTest.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\Mono.Android.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\mscorlib.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.Core.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.Xml.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.Xml.Linq.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.Runtime.Serialization.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Debug\assemblies\System.ServiceModel.Internals.dll

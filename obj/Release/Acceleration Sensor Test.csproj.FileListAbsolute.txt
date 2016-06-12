@@ -1,0 +1,15 @@
+B:\Program Files\VS\Accelerometer Solution\AccelTest\bin\Release\AccelTest.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\bin\Release\AccelTest.pdb
+B:\Program Files\VS\Accelerometer Solution\AccelTest\bin\Release\AccelTest.AccelTest.apk
+B:\Program Files\VS\Accelerometer Solution\AccelTest\bin\Release\AccelTest.AccelTest-Signed.apk
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\Acceleration Sensor Test.csprojResolveAssemblyReference.cache
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\AccelTest.dll
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\AccelTest.pdb
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\android\bin\AccelTest.AccelTest.apk
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\res\layout\main.xml
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\res\values\strings.xml
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\res\drawable\icon.png
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\R.cs.flag
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\uploadflags.txt
+B:\Program Files\VS\Accelerometer Solution\AccelTest\obj\Release\AccelTest.dll.mdb
+B:\Program Files\VS\Accelerometer Solution\AccelTest\bin\Release\AccelTest.dll.mdb
