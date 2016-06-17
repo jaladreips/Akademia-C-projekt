@@ -1,0 +1,5 @@
+Projekt zosta³ napisany jako aplikacja na Androida. ¯eby go skompilowaæ, trzeba ogarn¹c Xamarina na VS, za³o¿yæ konto na Xamarinie itd. itd.
+
+Aplikacje napisa³em po to, ¿eby dobraæ siê do czujników w telefonie i sprawdziæ ich mo¿liwoœci. Okazuje siê, ¿e s¹ tragiczne i 1) zabra³em siê za to od z³ej strony i 2) nawet jakbym zabra³ siê do tego dobrze to i tak z mojego pomys³u nic by nie wysz³o
+
+Zamierzenie by³o takie, ¿eby za pomoc¹ akcelerometru mierzyæ przesuniêcie telefonu od jakiejœ pozycji pocz¹tkowej. Jednak ze wzglêdu na podwójne ca³kowanie dowolne odchylenie kierunku wektora grawitacji w stosunku do faktycznego pola daje b³¹d który roœnie jak x^2. Wiêc nie jest dobrze.

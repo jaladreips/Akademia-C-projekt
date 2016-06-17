@@ -106,11 +106,11 @@ namespace AccelTest
                         break;
                 case (Axis.AxisY):
                         accText.Text = string.Format("A.y = {0}", args.AccelerationY);
-                        gravText.Text = string.Format("G.y = {0}", args.GravityX);
+                        gravText.Text = string.Format("G.y = {0}", args.GravityY);
                         break;
                 case (Axis.AxisZ):
                         accText.Text = string.Format("A.z = {0}", args.AccelerationZ);
-                        gravText.Text = string.Format("G.z = {0}", args.GravityX);
+                        gravText.Text = string.Format("G.z = {0}", args.GravityZ);
                         break;
             }
         }

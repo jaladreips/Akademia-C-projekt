@@ -23,7 +23,7 @@ namespace AccelTest
 
         private double lastTimeUpdated = 0;
 
-        private int numberOfSamplesTaken = 1;
+        private int numberOfSamplesTaken = 500;
         private double[] weights;
 
         public List<double> AccelerationX { get; private set; }
